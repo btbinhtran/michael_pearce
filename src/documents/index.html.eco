@@ -1,0 +1,18 @@
+---
+name: 'Home'
+layout: 'page'
+---
+
+<section class="world-records">
+	<h2>World Records</h2>
+
+	<section class="juggling-7-clubs">
+		<h3>
+			<a href="http://www.linkedin.com/profile/view?id=15748447#profile-recommendations">
+				<em><strong>100% client satisfaction</strong> for the past two years</em> via LinkedIn
+			</a>
+		</h3>
+		<p>Being able to provide a level of excellence which <a href="http://www.linkedin.com/profile/view?id=15748447#profile-recommendations">converts potential leads into raving fans</a>, won’t always be easy, but it is something I’m comitted to ensuring every single time.</p>
+	</section>
+
+</section>
